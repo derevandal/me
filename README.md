@@ -1,10 +1,22 @@
-# me
-## Adicionar
-https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/DOCUMENTATION.md#installation
-https://github.com/vseventer/hexo-uncss
-https://github.com/Troy-Yang/hexo-lazyload-image
-https://github.com/theme-next/hexo-filter-optimize
-https://github.com/mamboer/hexo-filter-cleanup
-https://github.com/ALiangLiang/hexo-description
-https://github.com/john-whitley/hexo-critical-css
-https://github.com/HyunSeob/hexo-auto-canonical
+# frontend
+
+> Frontend of BitHeap
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn run dev
+
+# build for production and launch server
+$ yarn run build
+$ yarn start
+
+# generate static project
+$ yarn run generate
+```
+
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
